@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Go Game Jam
+description: This is a brief introduction to building a game jam game for beginners.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://sarahmit.github.io/gogamejam
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/sarahmit/gogamejam
