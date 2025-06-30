@@ -10,24 +10,26 @@ What happens from the moment the game loads to when the player wins, dies, or qu
 
 ## Core scenes a typical jam game should have
 * Title screen
-* (Instructions or "How to Play")
-* Main game
+* Gameplay
 * Game over / win screen
-* Credits or restart option
+* Quit or restart option
+
+{: .note }
+> You can always add scenes, such as instructions and credits.
 
 ## Game Flow
+Your game flow should look somewhat like this:
 ```mermaid
 graph TD;
     accTitle: the diamond pattern
     accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    TitleScreen-->Instructions;
-    Instrctions-->Gameplay;
     TitleScreen-->Gameplay;
     TitleScreen-->Quit;
     Gameplay-->Win;
     Gameplay-->Lose;
     Win-->Retry;
     Lose-->Retry;
+    Retry-->Gameplay
     Win-->Quit;
     Lose-->Quit;
 ```
