@@ -10,7 +10,6 @@ Game design is not about graphics — it’s about defining the gameplay, mechan
 
 ## What Makes a Good Jam Game?
 A good jam game doesn’t need to be big — it needs to be clear, fun, and finishable. In a jam, the best games often do one thing very well, rather than trying to do everything.
-
 Key traits are often:
 
 1. One Clear, Well-Executed Idea
@@ -44,26 +43,22 @@ Key traits are often:
 Game Jams are short — often just 48 or 72 hours — so managing your time and scope wisely is essential. Here’s how to stay productive and finish strong.
 
 ### 🎯 Start Small, Then Polish
-
-**Focus on one core mechanic!**  
+* Focus on one core mechanic!
 * Choose a simple idea that’s achievable in a few hours.
 * If it’s your first jam, think *"Can I make a fun game with just this one mechanic?"*
 * Extra features can come later — if there’s time.
-
-> 💡 Example: A platformer with double-jump is enough. You don’t need wall slides, dashes, and gliders on day one.
+* Example: A platformer with double-jump is enough. You don’t need wall slides, dashes, and gliders on day one.
 
 ### ⏳ Prioritize What the Player Sees First
 * First impressions matter. Prioritize the **main game loop**, **movement**, and **feedback**.
 * A single level that feels good is better than 10 unplayable ones.
 
 ### ✂️ Cut Features Early & Without Guilt
-
-Be ruthless. If a feature isn’t essential to the core fun, cut it or move it to a “maybe later” list.
-
-Ask yourself:
-* Does this make the game more fun?
-* Will the game still work without it?
-* Can I replace it with something simpler?
+* Be ruthless - if a feature isn’t essential to the core fun, cut it or move it to a “maybe later” list
+* Ask yourself:
+    * Does this make the game more fun?
+    * Will the game still work without it?
+    * Can I replace it with something simpler?
 
 ### 🤝 Don’t Wait to Integrate
 * Get your assets (art, audio) into the game early — even placeholders.
