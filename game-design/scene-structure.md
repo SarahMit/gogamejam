@@ -20,10 +20,10 @@ What happens from the moment the game loads to when the player wins, dies, or qu
 graph TD;
     accTitle: the diamond pattern
     accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    Title Screen-->Instructions;
+    TitleScreen-->Instructions;
     Instrctions-->Gameplay;
-    Title Screen-->Gameplay;
-    Title Screen-->Quit;
+    TitleScreen-->Gameplay;
+    TitleScreen-->Quit;
     Gameplay-->Win;
     Gameplay-->Lose;
     Win-->Retry;
