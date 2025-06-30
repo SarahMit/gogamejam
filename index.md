@@ -6,7 +6,8 @@ nav_order: 1
 
 # Go Game Jam 🚀🫙
 
-Want to make a small Game Jam game but not sure where to start? This page offers some (hopefully) helpful suggestions. While examples are based on the Godot game engine, the concepts can be easily applied to other tools like Unity or Unreal.
+## Want to make a small Game Jam game but not sure where to start? 
+This page offers some (hopefully) helpful suggestions. While examples are based on the Godot game engine, the concepts can be easily applied to other tools like Unity or Unreal.
 
 {: .important }
 > This guide focuses on general concepts. For detailed tutorials related to specific game engines or coding languages, please refer to their official documentation.
