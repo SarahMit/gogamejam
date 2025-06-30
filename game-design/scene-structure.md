@@ -25,11 +25,8 @@ graph TD;
     accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
     TitleScreen-->Gameplay;
     TitleScreen-->Quit;
-    Gameplay-->Win;
-    Gameplay-->Lose;
-    Win-->Retry;
-    Lose-->Retry;
+    Gameplay-->Win/Lose;
+    Win/Lose-->Retry;
     Retry-->Gameplay
-    Win-->Quit;
-    Lose-->Quit;
+    Win/Lose-->Quit;
 ```
