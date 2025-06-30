@@ -5,4 +5,18 @@ theme: just-the-docs
 url: https://sarahmit.github.io/gogamejam
 
 aux_links:
-  Template Repository: https://github.com/sarahmit/gogamejam
+  gogamejam repository: https://github.com/sarahmit/gogamejam
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
+  important:
+    title: Important
+    color: blue
+
+logo: "/assets/images/gogamejam-logo.png"
+

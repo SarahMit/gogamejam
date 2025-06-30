@@ -69,7 +69,7 @@ Below are battle-tested tools that are beginner-friendly, free or cheap, and gre
 * 🟠 Aseprite (pixel art, animations)
     * Pixel-perfect editor with animation support (onion skin, frame control)
     * Affordable, fast, and widely used in the gamedev community
-    * https://www.aseprite.org
+    * [www.aseprite.org](https://www.aseprite.org)
 
 * 🟢 Piskel (free, web-based)
     * Great free alternative for pixel art & animations
