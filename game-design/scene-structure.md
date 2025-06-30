@@ -15,7 +15,7 @@ What happens from the moment the game loads to when the player wins, dies, or qu
 * Quit or restart option
 
 {: .note }
-> You can always add scenes, such as instructions and credits.
+> You can always add scenes, such as *instructions*, *options*, or *credits*.
 
 ## Game Flow
 Your game flow should look somewhat like this:
