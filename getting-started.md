@@ -16,6 +16,7 @@ Before diving into development, make a plan for the game you're creating — see
 One of the most common mistakes during game jams is splitting up the work, working independently, and only trying to merge everything at the end. This often leads to serious issues — not just time pressure but also technical problems like merge conflicts that can corrupt your game project.
 While game jams are about creativity and fun, it's a good idea to set up a **basic working plan** with your team.
 
+---
 
 ## Workflow
 Schedule regular team check-ins, ideally two to three times a day or every few hours. In each meeting, cover:
@@ -29,6 +30,7 @@ Schedule regular team check-ins, ideally two to three times a day or every few h
 Some people prefer focusing only on art or programming, while others like to mix. Create a rough task distribution at the beginning of the jam based on interests.
 In your **initial meeting**, discuss what each person wants to do and assign clear first tasks. During your regular meetings, adjust and plan upcoming tasks. If someone finishes early and doesn't know what to do, discuss their next task together as a team — **don’t just start working independently without letting others know!**
 
+---
 
 ## General Game Components to Start With
 Here are some typical game components that individuals can work on:
@@ -46,6 +48,8 @@ Avoid over-polishing your art early on — aim for a clean, usable style you can
 5. **🛠️ UI Elements / HUD:** Health bars, score counters, inventory screens, and timers are important for user feedback and game feel. They are often implemented in parallel with core gameplay.
 
 6. **🧱 Level Design / Environment:** Building the actual playable levels or scenes by creating the layout, platforms, obstacles, or backgrounds. Use placeholder art at first, then swap in final assets.
+
+---
 
 ## Choosing Your Tools
 Below are battle-tested tools that are beginner-friendly, free or cheap, and great for rapid game development.
