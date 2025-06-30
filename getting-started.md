@@ -9,11 +9,8 @@ nav_order: 2
 
 You can join a game jam either solo or as part of a team. If you're attending an on-site jam, you can usually find teammates there, so there's no need to form a group in advance. When working as a team, tasks are typically divided — for example, who will write which scripts or create or source which assets.
 
-{: .important }
-> While creating your own assets can be a lot of fun, it also takes time. If you don’t plan to make art or sound yourself, you can explore plenty of [free online resources](assets/free-resources.md).
-
 {: .note }
-A paragraph
+> While creating your own assets can be a lot of fun, it also takes time. If you don’t plan to make art or sound yourself, you can explore plenty of [free online resources](assets/free-resources.md).
 
 Before diving into development, make a plan for the game you're creating — see [Game Design](game-design.md) for guidance. Once you have a concept, coordinate with your team to divide responsibilities and set up a basic workflow.
 One of the most common mistakes during game jams is splitting up the work, working independently, and only trying to merge everything at the end. This often leads to serious issues — not just time pressure but also technical problems like merge conflicts that can corrupt your game project.
