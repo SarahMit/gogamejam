@@ -37,5 +37,8 @@ Everything visual and audio — including sprites, sound effects, music, and any
 
 ---
 
-- [Getting Started ➡️](getting-started.md)
-[Getting Started ➡️](getting-started.md){: .btn .btn-purple }
+<div style="text-align: right">
+
+[Getting Started](getting-started.md){: .btn .btn-purple }
+
+</div>
