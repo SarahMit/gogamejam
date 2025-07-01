@@ -1,18 +1,13 @@
 ---
 title: Character Controller
 layout: home
-nav_order: 4
+nav_order: 3
 parent: Code
 ---
 
 # Character Controller
 This is one of the most important scripts in a game as it denies how user input is translated into character behavior, essentially determining how playing your game feels.
 Just getting to make the character to move based on input is easy, game engines usually have a lot of pre-built features for it. However, making character movement feel good and satisfying might be tricky.
-
-## Check Stuff
-* jumping / is on floor
-* is sliding
-
 
 ## Input Handling
 Many game engines offer premade solutions, e.g., 🤖 [Godot's Input Map](https://docs.godotengine.org/en/latest/tutorials/inputs/input_examples.html#inputmap). 
