@@ -21,13 +21,6 @@ It’s the **primary verb** in your game — what the player *does*:
 
 Everything else — story, art, level design — builds around this action.
 
-Ask yourself:
-* Can I explain it in **one sentence**?
-* Is it **fun to do repeatedly**?
-* Can I build **at least 2–3 levels or challenges** with just this?
-
-If yes, you’ve got a great candidate! Before adding art, menus, or sound — you might want to test if the core mechanic **feels good**. Use placeholder shapes and focus on movement and responsiveness.
-
 {: .note }
 > A platformer with double-jump is enough. You don’t need wall slides, dashes, and gliders on day one.
 
@@ -39,6 +32,12 @@ If yes, you’ve got a great candidate! Before adding art, menus, or sound — y
 - **Easy to understand** (player “gets it” in 10 seconds)
 - **Expandable** (can introduce variations or combos)
 
+Ask yourself:
+* Can I explain it in **one sentence**?
+* Is it **fun to do repeatedly**?
+* Can I build **at least 2–3 levels or challenges** with just this?
+
+If yes, you’ve got a great candidate! Before adding art, menus, or sound — you might want to test if the core mechanic **feels good**. Use placeholder shapes and focus on movement and responsiveness.
 ---
 
 ## 🧪 Examples of Core Mechanics
