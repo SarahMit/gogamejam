@@ -12,7 +12,7 @@ This page offers some (hopefully) helpful suggestions. While examples are based 
 {: .important }
 > This guide focuses on general concepts. For detailed tutorials related to specific game engines or coding languages, please refer to their official documentation.
 
----
+The vision of GoGameJam is to provide brief, low-level information about game development tailored to game jam projects. Rather than providing detailed tutorials or code snippets, general concepts, essential key words, and tipps are provided, to help getting started on a game jam project as quickly as possible!
 Content on this site is licensed under a Creative Commons Attribution 4.0 International license.
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
