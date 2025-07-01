@@ -39,6 +39,6 @@ Everything visual and audio — including sprites, sound effects, music, and any
 
 <div style="text-align: right">
 
-[Getting Started](getting-started.md){: .btn .btn-purple }
+[Getting Started](getting-started.md){: .btn }
 
 </div>
