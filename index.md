@@ -21,6 +21,7 @@ Content on this site is licensed under a Creative Commons Attribution 4.0 Intern
 A Game Jam is typically a 48-hour event held over a weekend (yes, you're allowed to sleep!) where people come together to create games in a short amount of time.
 It's a fantastic opportunity to experiment, unleash your creativity, meet like-minded people, and just have fun. There's no pressure to produce a polished or complete game — the experience itself is valuable, whether you finish or not!
 
+---
 ## The Three Pillars of Game Development
 
 This guide is organized around three key areas essential to making a game:
@@ -36,7 +37,5 @@ Everything visual and audio — including sprites, sound effects, music, and any
 
 ---
 
-## Jump In
-
-- [Getting Started](getting-started.md)
-- [FAQ](faq.md)
+- [Getting Started ➡️](getting-started.md)
+[Getting Started ➡️](getting-started.md){: .btn .btn-purple }
