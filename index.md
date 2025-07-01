@@ -12,6 +12,8 @@ This page offers some (hopefully) helpful suggestions. While examples are based 
 {: .important }
 > This guide focuses on general concepts. For detailed tutorials related to specific game engines or coding languages, please refer to their official documentation.
 
+---
+Content on this site is licensed under a Creative Commons Attribution 4.0 International license.
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
@@ -26,7 +28,7 @@ This guide is organized around three key areas essential to making a game:
 ### 🎮 Game Design  
 Game design is not about graphics — it’s about defining the gameplay, mechanics, goals, characters, and player experience.
 
-### 💻 Programming  
+### 💻 Coding  
 How the game is implemented. This guide doesn’t go deep into code examples, but instead highlights concepts like organizing your project and using common programming patterns.
 
 ### 🎨🎵 Assets  

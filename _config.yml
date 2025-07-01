@@ -7,8 +7,8 @@ url: https://sarahmit.github.io/gogamejam
 aux_links:
   gogamejam repository: https://github.com/sarahmit/gogamejam
 
-logo: "/assets/images/gogamejam_logo_horizontal.png"
-favicon_ico: "/assets/images/favicon.ico"
+logo: "/images/gogamejam_logo_horizontal.png"
+favicon_ico: "/images/favicon.ico"
 
 # Color scheme
 color_scheme: light

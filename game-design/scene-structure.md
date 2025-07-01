@@ -15,7 +15,7 @@ What happens from the moment the game loads to when the player wins, dies, or qu
 * Quit or restart option
 
 {: .note }
-> You can always add scenes, such as *instructions*, *options*, or *credits*.
+> This page shows a minimal example. You can always add scenes, such as *instructions*, *options*, or *credits*.
 
 ## Game Flow
 Your game flow should look somewhat like this:
@@ -30,3 +30,4 @@ graph TD;
     Retry-->Gameplay
     Win/Lose-->Quit;
 ```
+In terms of code, the transition between scenes is typically handled by a [Game Manager](coding/game-manager.md).
