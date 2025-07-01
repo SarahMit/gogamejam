@@ -41,4 +41,8 @@ Everything visual and audio — including sprites, sound effects, music, and any
 
 [Getting Started](getting-started.md){: .btn }
 
+<span class="fs-8">
+[Getting Started](getting-started.md){: .btn }
+</span>
+
 </div>

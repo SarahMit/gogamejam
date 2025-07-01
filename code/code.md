@@ -5,9 +5,9 @@ nav_order: 4
 ---
 
 # Code
-Gamejam code doesn’t need to be perfect — it needs to be organized, modular, and fast to iterate on. While it's common to use quick and dirty solutions during a jam, it's still worth keeping your code at a level that’s manageable and readable — especially if you’re working in a team.
+Gamejam code doesn’t need to be perfect — it needs to be organized, modular, and fast to iterate on. Don't stress about architecture: Prioritize quick and functional code during jams. While it's common to use quick and dirty solutions during a jam, it's still worth keeping your code at a level that’s manageable and readable — especially if you’re working in a team.
 
-This section isn’t about best practices or perfect architecture. Instead, it offers simple, reusable patterns and practical examples to help new jammers implement the core systems most games need in a way that’s quick to build and easy to understand.
+This section isn’t about best practices or perfect architecture. Instead, it offers simple, reusable patterns and practical examples to help new jammers implement the core systems most games need in a way that’s quick to build and easy to understand. 
 
 {: .note }
 > This page is made for newcomers or less experienced jammers. Therefore, the approaches and examples focus on simplicity. As a more experienced programmer you might want to use more advanced and "cleaner" solutions.

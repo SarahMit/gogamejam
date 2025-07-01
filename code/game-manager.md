@@ -5,7 +5,59 @@ nav_order: 2
 parent: Code
 ---
 
-# Game States
+# What is a Game Manager?
+A Game Manager is a central script or object that handles the high-level flow of your game. It usually controls:
+* Game states: menu, playing, paused, game over
+* Scene transitions
+* Score, lives, or other persistent data
+* Global settings like difficulty or audio
+* Saving/loading
+
+{: .note }
+> It's often designed as a **singleton**, meaning there's only one instance of it that exists across the entire game.
+
+--- 
+
+## What Is the Singleton Pattern?
+You want a single shared object—like a game manager that’s accessible from anywhere in the code, without making tons of copies. There's only one, and all the scripts check in with it. You don't want multiple instances giving conflicting instructions. In short:
+* Only one instance is ever created
+* It’s globally accessible
+* Often initialized at the start of the program
+
+```
+class SingletonClass:
+    # Static variable to hold the one and only instance
+    static instance = null
+
+    # Private constructor to prevent direct instantiation
+    private SingletonClass():
+        // Initialize any variables or setup here
+
+    # Public method to access the instance
+    static get_instance():
+        if instance == null:
+            instance = new SingletonClass()
+        return instance
+
+    # Example method
+    method do_something():
+        print("Doing something...")
+```
+
+## Godot's Approach
+**Autoload** in Godot is how you typically implement singletons, but they’re not exactly the same thing. 
+An Autoload is a node or script that is loaded once and kept alive across all scenes. It becomes globally accessible by name and behaves like a singleton. Check in with [Godot's documentation](https://docs.godotengine.org/en/latest/tutorials/scripting/singletons_autoload.html) to learn more.
+
+## When to Use Singletons?
+Usually singletons (or autoload) is the recommended way to implement global managers, e.g.:
+* GameManager
+* AudioManager
+* InputHandler
+* SaveSystem
+* InventoryManager
+
+
+
 
 What kind of structure the game follows:
 * One level vs multiple stages
