@@ -6,7 +6,7 @@ parent: Code
 ---
 
 # What is a Game Manager?
-A Game Manager is a central script or object that handles the high-level flow of your game, usually controlling:
+A Game Manager is a central script or object that handles the high-level flow of your game. It is usually implemented as a singleton and controlls:
 * Game states: menu, playing, paused, game over
 * Scene transitions
 * Score, lives, or other persistent data
@@ -54,7 +54,7 @@ SingletonClass.get_instance().do_something()
 > 🤖 Godot's Approach
 >
 > **Autoload** in Godot is how you typically implement singletons, but they’re not exactly the same thing. 
-An Autoload is a node or script that is loaded once and kept alive across all scenes. It becomes globally accessible by name and behaves like a singleton. Check in with [Godot's documentation](https://docs.godotengine.org/en/latest/tutorials/scripting/singletons_autoload.html) to learn more.
+> An Autoload is a node or script that is loaded once and kept alive across all scenes. It becomes globally accessible by name and behaves like a singleton. Check in with [Godot's documentation](https://docs.godotengine.org/en/latest/tutorials/scripting/singletons_autoload.html) to learn more.
 
 ## When to Use Singletons?
 Usually singletons (or autoload) is the recommended way to implement global managers, e.g.:
